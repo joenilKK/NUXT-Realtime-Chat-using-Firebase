@@ -12,6 +12,9 @@
           <li>
             <NuxtLink href="/about">Abouts</NuxtLink>
           </li>
+          <li>
+            <NuxtLink href="/about">Profile</NuxtLink>
+          </li>
         </ul>
       </nav>
     </div>
