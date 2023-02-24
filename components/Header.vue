@@ -7,10 +7,10 @@
       <nav>
         <ul>
           <li>
-            <NuxtLink href="/">Home</NuxtLink>
+            <NuxtLink href="/">Homes</NuxtLink>
           </li>
           <li>
-            <NuxtLink href="/about">About</NuxtLink>
+            <NuxtLink href="/about">Abouts</NuxtLink>
           </li>
         </ul>
       </nav>
